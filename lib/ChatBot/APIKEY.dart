@@ -1,0 +1,1 @@
+const OPEN_AI_KEY="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";

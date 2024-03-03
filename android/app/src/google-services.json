@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143090821663",
+    "project_id": "tsbridgeedu-d0e6c",
+    "storage_bucket": "tsbridgeedu-d0e6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143090821663:android:ba5a9d9ac1de21e6f3832a",
+        "android_client_info": {
+          "package_name": "com.example.tsbridgedu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI0J_8Z910I314DNDkGSc9jNgsbq82Y5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
